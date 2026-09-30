@@ -4,204 +4,302 @@
 
 🚧 **STATUS DO PROJETO: EM DESENVOLVIMENTO**
 
-O **BeyondTime é um projeto real que está atualmente em desenvolvimento**. Esta Landing Page representa a versão institucional e demonstrativa do produto, enquanto o aplicativo e os demais componentes do ecossistema estão sendo construídos e evoluídos pela equipe.
+O **BeyondTime é um projeto real atualmente em desenvolvimento**. Esta Landing Page representa a versão institucional e demonstrativa do produto, enquanto o aplicativo e os demais componentes do ecossistema continuam sendo construídos e evoluídos pela equipe.
 
-**O BeyondTime ainda não está disponível como produto final para o público.** Algumas funcionalidades apresentadas nesta Landing Page representam a **visão, arquitetura e proposta do produto**, podendo ainda estar em desenvolvimento, testes ou planejamento.
+### 🌐 Acesse a Landing Page
 
----
+**[🚀 Acessar BeyondTime](https://beyond-time-ladingpage.vercel.app/)**
 
-## 🚧 Status Atual
-
-O projeto encontra-se em **fase de desenvolvimento ativo**.
-
-| Componente                                | Status                       |
-| ----------------------------------------- | ---------------------------- |
-| 🌐 Landing Page Institucional             | ✅ Desenvolvida               |
-| 🎨 Identidade visual e UX/UI              | ✅ Em desenvolvimento         |
-| 📱 Aplicativo Mobile                      | 🚧 Em desenvolvimento        |
-| ⚙️ Back-end / API                         | 🚧 Em desenvolvimento        |
-| 🗄️ Banco de dados                        | 🚧 Em desenvolvimento        |
-| 🔐 Sistema de segurança                   | 🚧 Em desenvolvimento        |
-| 🤖 Recursos de IA                         | 🚧 Em desenvolvimento        |
-| 👁️ Validação facial / Liveness Detection | 🚧 Em desenvolvimento        |
-| 📜 Política de Governança                 | 📄 Documentada / em evolução |
-| 🚀 Produto final                          | ⏳ Em desenvolvimento         |
-
-> **Importante:** os recursos descritos neste README representam o estágio atual, a arquitetura planejada e/ou a visão de produto do BeyondTime. A disponibilidade e implementação de cada funcionalidade podem mudar conforme o desenvolvimento avança.
+> A Landing Page está disponível publicamente para demonstração. O **produto BeyondTime ainda está em desenvolvimento e não foi lançado como produto final para o público**.
 
 ---
 
-## 📌 O que é este repositório?
+## 📌 Sobre este Repositório
 
 Este repositório contém o código-fonte da **Landing Page institucional do BeyondTime**.
 
-A Landing Page foi desenvolvida para apresentar a proposta do produto, sua experiência, seus diferenciais e a visão do ecossistema que está sendo construído.
+A Landing Page foi criada para apresentar a proposta de valor, a experiência, os diferenciais e a visão do ecossistema BeyondTime para:
 
-Ela serve como uma **interface de apresentação do projeto**, destinada a:
+* 👥 Público 50+;
+* 🎓 Banca acadêmica da UNINASSAU;
+* 💼 Investidores e stakeholders;
+* 🤝 Possíveis parceiros;
+* 🌐 Pessoas interessadas no projeto.
 
-* apresentar o conceito do BeyondTime;
-* demonstrar a experiência planejada para o usuário;
-* comunicar a proposta de valor;
-* apresentar a visão tecnológica;
-* documentar princípios de segurança e governança;
-* apoiar apresentações acadêmicas;
-* apresentar o projeto a possíveis parceiros e stakeholders.
+### ⚠️ Importante: o BeyondTime está em desenvolvimento
 
-### ⚠️ Landing Page ≠ Produto Final
+O **BeyondTime não é um produto finalizado**.
 
-É importante diferenciar a Landing Page do produto principal.
+O projeto encontra-se em **desenvolvimento ativo**, e diferentes partes do ecossistema estão em diferentes estágios de implementação.
 
-**Esta Landing Page está funcional como aplicação Web**, porém o **ecossistema BeyondTime como um todo ainda está sendo desenvolvido**.
+A Landing Page já está publicada e pode ser acessada pelo link:
 
-Portanto, determinados elementos apresentados na Landing Page podem representar:
+**https://beyond-time-ladingpage.vercel.app/**
 
-* funcionalidades já implementadas;
-* funcionalidades em desenvolvimento;
-* protótipos;
-* conceitos de UX/UI;
-* funcionalidades planejadas para versões futuras.
+Entretanto, o aplicativo, back-end, recursos de IA, mecanismos de segurança e demais componentes ainda estão sendo desenvolvidos, testados e refinados.
 
-Isso faz parte do processo normal de desenvolvimento do produto.
+---
+
+# 🚧 Status Atual do Projeto
+
+| Componente                                | Status                       |
+| ----------------------------------------- | ---------------------------- |
+| 🌐 Landing Page Institucional             | ✅ Publicada                  |
+| 🎨 Identidade Visual / UX/UI              | 🚧 Em evolução               |
+| 📱 Aplicativo Mobile                      | 🚧 Em desenvolvimento        |
+| ⚙️ Back-end / API                         | 🚧 Em desenvolvimento        |
+| 🗄️ Banco de Dados                        | 🚧 Em desenvolvimento        |
+| 🔐 Sistema de Segurança                   | 🚧 Em desenvolvimento        |
+| 🤖 Recursos de IA                         | 🚧 Em desenvolvimento        |
+| 👁️ Validação Facial / Liveness Detection | 🚧 Em desenvolvimento        |
+| 📜 Política de Governança                 | 📄 Documentada / em evolução |
+| 🧪 Testes e Validação                     | ⏳ Planejados / em andamento  |
+| 🚀 Produto Final                          | ⏳ Em desenvolvimento         |
 
 ---
 
 # 🌱 Sobre o BeyondTime
 
-O **BeyondTime** é uma plataforma digital em desenvolvimento voltada principalmente para o público **50+**, dentro do contexto da **Silver Economy**.
+O **BeyondTime** é uma plataforma digital em desenvolvimento voltada principalmente para o público **50+**, inserida no contexto da **Silver Economy**.
 
-A proposta é criar um ambiente digital no qual pessoas possam estabelecer novas conexões a partir de **afinidades, hobbies, interesses e experiências**, promovendo amizades, relacionamentos e novas experiências de vida.
+A proposta é criar um ambiente digital onde pessoas possam estabelecer novas conexões a partir de:
 
-O projeto busca combinar:
+* interesses;
+* hobbies;
+* afinidades;
+* experiências;
+* objetivos em comum.
 
-* 🤝 conexões por afinidade;
-* ❤️ relacionamentos e amizades;
-* 🧓 experiência direcionada ao público 50+;
-* 👁️ mecanismos de segurança;
-* 🤖 inteligência artificial;
-* ♿ acessibilidade;
-* 🔐 privacidade;
-* 📜 governança e transparência.
+O objetivo é possibilitar a construção de **amizades, relacionamentos e novas experiências**, utilizando tecnologia para tornar esse processo mais acessível, seguro e significativo.
 
 ---
 
-# 🏗️ Desenvolvimento do Ecossistema
+# 🎯 Proposta de Valor
 
-O BeyondTime está sendo desenvolvido como um ecossistema composto por diferentes componentes.
+O BeyondTime busca combinar:
 
-### 📱 Aplicativo Mobile
+* 🤝 **Conexões por afinidade**
+* ❤️ **Amizades e relacionamentos**
+* 🧓 **Experiência direcionada ao público 50+**
+* ♿ **Acessibilidade**
+* 👁️ **Segurança e validação de identidade**
+* 🤖 **Inteligência Artificial**
+* 🔐 **Privacidade e proteção**
+* 📜 **Governança e transparência**
+
+---
+
+# 🌐 Landing Page
+
+A Landing Page funciona como a **porta de entrada institucional do BeyondTime**.
+
+Ela apresenta:
+
+* a visão do produto;
+* o problema identificado;
+* a proposta de valor;
+* os diferenciais;
+* a experiência planejada;
+* os princípios de segurança;
+* a governança;
+* a visão futura do ecossistema.
+
+### 🔗 Acesso público
+
+**🚀 https://beyond-time-ladingpage.vercel.app/**
+
+A versão publicada pode ser utilizada para **demonstrações, apresentações acadêmicas e validação da proposta visual e institucional do projeto**.
+
+---
+
+# 🏗️ Ecossistema em Desenvolvimento
+
+## 📱 Aplicativo Mobile
 
 **Status: 🚧 Em desenvolvimento**
 
-A aplicação mobile será responsável pela experiência principal dos usuários.
-
-Tecnologias planejadas/utilizadas:
-
-* React Native
-* Expo SDK 54
-* Expo Updates
-
-### ⚙️ Back-end
-
-**Status: 🚧 Em desenvolvimento**
-
-Responsável pelas APIs, regras de negócio, autenticação e comunicação com o aplicativo.
+O aplicativo será o principal ambiente de interação dos usuários.
 
 Tecnologias:
 
-* Java 21
-* Spring Boot 3
-* Hibernate
-* PostgreSQL
+* React Native;
+* Expo SDK 54;
+* Expo Updates.
 
-### 🤖 Segurança e IA
+---
+
+## ⚙️ Back-end
 
 **Status: 🚧 Em desenvolvimento**
 
-O projeto contempla recursos relacionados a:
+Responsável pela lógica de negócio, APIs, autenticação, persistência e comunicação com o aplicativo.
+
+Tecnologias:
+
+* Java 21;
+* Spring Boot 3;
+* Hibernate;
+* PostgreSQL.
+
+---
+
+## 🤖 Segurança & IA
+
+**Status: 🚧 Em desenvolvimento**
+
+A arquitetura do projeto contempla recursos como:
 
 * validação facial;
 * detecção de vivacidade (*liveness detection*);
 * mecanismos anti-spoofing;
 * inteligência artificial;
-* segurança da conta;
-* proteção contra tentativas de fraude.
+* proteção de contas;
+* mecanismos de segurança.
 
-Esses recursos ainda fazem parte do processo de desenvolvimento e validação do produto.
+Esses recursos fazem parte do processo de desenvolvimento e validação e **não devem ser interpretados como funcionalidades integralmente disponíveis na versão atual da Landing Page**.
 
 ---
 
 # 🗺️ Roadmap
 
-O desenvolvimento do BeyondTime segue uma evolução progressiva.
-
-### ✅ Etapa 1 — Conceito e Validação
+### ✅ Conceito e Validação
 
 * Definição do problema;
-* definição do público-alvo;
-* visão do produto;
+* público-alvo;
 * proposta de valor;
+* visão do produto;
 * identidade do BeyondTime.
 
-### ✅ Etapa 2 — Experiência e Landing Page
+### ✅ Landing Page
 
-* identidade visual;
+* Identidade visual;
 * UX/UI;
-* Landing Page institucional;
-* apresentação do ecossistema;
-* documentação inicial.
+* desenvolvimento da Landing Page;
+* publicação na Vercel;
+* documentação institucional.
 
-### 🚧 Etapa 3 — Desenvolvimento do Aplicativo
+### 🚧 Aplicativo
 
-* estrutura do aplicativo;
+* Estrutura mobile;
 * autenticação;
 * perfis;
-* interesses e hobbies;
+* interesses;
+* hobbies;
 * sistema de afinidades;
-* conexões entre usuários.
+* conexões.
 
-### 🚧 Etapa 4 — Back-end e Infraestrutura
+### 🚧 Back-end
 
 * APIs;
 * banco de dados;
 * autenticação;
-* infraestrutura;
-* integração Mobile ↔ API.
+* regras de negócio;
+* integração com o aplicativo.
 
-### 🚧 Etapa 5 — Segurança e IA
+### 🚧 Segurança e IA
 
-* validação facial;
+* Validação facial;
 * liveness detection;
 * anti-spoofing;
 * mecanismos adicionais de proteção.
 
-### ⏳ Etapa 6 — Testes e Validação
+### ⏳ Testes
 
-* testes técnicos;
+* Testes técnicos;
 * testes de usabilidade;
 * validação com usuários;
-* ajustes de acessibilidade;
+* acessibilidade;
 * refinamento da experiência.
 
-### ⏳ Etapa 7 — Versão de Produção
+### ⏳ Lançamento
 
-* preparação da infraestrutura;
-* publicação;
+* Preparação da infraestrutura;
+* publicação do aplicativo;
 * monitoramento;
-* evolução contínua do produto.
+* evolução contínua.
 
 ---
 
-# 🔎 Transparência sobre o Desenvolvimento
+# 🛠️ Tecnologias da Landing Page
 
-O BeyondTime está sendo construído de forma incremental.
+| Tecnologia           | Utilização              |
+| -------------------- | ----------------------- |
+| **React 18**         | Interface               |
+| **Vite**             | Build e desenvolvimento |
+| **Tailwind CSS**     | Estilização             |
+| **Framer Motion**    | Animações               |
+| **Lucide Icons**     | Iconografia             |
+| **JavaScript / JSX** | Desenvolvimento         |
+| **Vercel**           | Deploy da Landing Page  |
 
-Por isso, **nem tudo que aparece na apresentação do projeto representa uma funcionalidade já disponível**.
+### ♿ Acessibilidade
 
-A equipe utiliza prototipação, desenvolvimento iterativo e validação progressiva para transformar a visão inicial do produto em uma solução funcional.
+A interface utiliza:
 
-> **Este repositório documenta um produto em construção — não uma versão finalizada.**
+* fonte **Roboto** para títulos;
+* fonte **Inter** para textos;
+* tamanho mínimo de **18px** para textos principais;
+* layout responsivo;
+* hierarquia visual;
+* foco em legibilidade e facilidade de navegação.
 
-Novos recursos, alterações arquiteturais, melhorias de UX/UI e mudanças de escopo poderão ocorrer durante o desenvolvimento.
+---
+
+# 📜 Política de Governança
+
+A documentação de governança está disponível no próprio projeto:
+
+```text
+/public/docs/politica-de-governanca.pdf
+```
+
+O documento apresenta os princípios que orientam o desenvolvimento do ecossistema em aspectos como:
+
+* segurança;
+* transparência;
+* responsabilidade;
+* privacidade;
+* utilização da tecnologia;
+* relacionamento com usuários.
+
+---
+
+# 👥 Equipe — UNINASSAU
+
+| Integrante                               | Matrícula | Papel Principal                                      |
+| ---------------------------------------- | --------: | ---------------------------------------------------- |
+| **José Guilherme da Silva Nascimento**   |  16034504 | Product Owner • Scrum Master • Líder • Desenvolvedor |
+| **Abraão Silva Paixão**                  |  16035780 | Desenvolvedor                                        |
+| **Paulo Rafael Cardoso Santos**          |  16035887 | Desenvolvedor                                        |
+| **Brigitte Lara Rodrigues P. S. Dantas** |  16035243 | Desenvolvedora                                       |
+
+---
+
+# 🧑‍💻 Liderança do Projeto
+
+### José Guilherme da Silva Nascimento
+
+**Product Owner • Scrum Master • Project Lead • Developer**
+
+Responsável pela condução do projeto, organização da visão do produto, priorização das necessidades, coordenação da equipe e participação no desenvolvimento da solução.
+
+---
+
+# 🚀 Executando Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/beyondtime.git
+
+# Entre na pasta
+cd beyondtime
+
+# Instale as dependências
+npm install
+
+# Execute o ambiente de desenvolvimento
+npm run dev
+```
 
 ---
 
@@ -209,7 +307,7 @@ Novos recursos, alterações arquiteturais, melhorias de UX/UI e mudanças de es
 
 O BeyondTime está sendo desenvolvido no contexto do curso de **Análise e Desenvolvimento de Sistemas da UNINASSAU**.
 
-Embora tenha origem acadêmica, o projeto está sendo estruturado como uma **solução digital em desenvolvimento**, envolvendo conceitos de:
+O projeto envolve conceitos de:
 
 * Engenharia de Software;
 * Desenvolvimento Web;
@@ -225,21 +323,42 @@ Embora tenha origem acadêmica, o projeto está sendo estruturado como uma **sol
 
 ---
 
-## 📅 Status em 2026
+# 🔎 Transparência sobre o Projeto
+
+O BeyondTime está sendo desenvolvido de maneira **incremental e iterativa**.
+
+Por isso, os elementos apresentados na Landing Page podem representar diferentes níveis de maturidade:
+
+* funcionalidades já implementadas;
+* funcionalidades em desenvolvimento;
+* protótipos;
+* conceitos de UX/UI;
+* funcionalidades planejadas;
+* arquitetura prevista para versões futuras.
+
+> **Este repositório representa um produto em construção, e não uma versão finalizada.**
+
+O projeto continuará recebendo atualizações conforme novas funcionalidades forem desenvolvidas, testadas e validadas.
+
+---
+
+# 📅 Status — 2026
 
 **Projeto:** BeyondTime
-**Tipo:** Plataforma Digital / Projeto Acadêmico
+**Categoria:** Plataforma Digital / Projeto Acadêmico
 **Público principal:** 50+ / Silver Economy
 **Status:** 🚧 **Em desenvolvimento ativo**
-**Landing Page:** ✅ Funcional
-**Aplicativo:** 🚧 Em desenvolvimento
-**Back-end:** 🚧 Em desenvolvimento
-**Produto final:** ⏳ Ainda não lançado
+**Landing Page:** ✅ **Publicada**
+**Aplicativo:** 🚧 **Em desenvolvimento**
+**Back-end:** 🚧 **Em desenvolvimento**
+**Produto final:** ⏳ **Ainda não lançado**
 
-> **Última atualização:** Setembro de 2026
+### 🌐 Demonstração
+
+**[ Acessar a Landing Page do BeyondTime](https://beyond-time-ladingpage.vercel.app/)**
 
 ---
 
 © 2026 **BeyondTime** — Projeto desenvolvido no contexto acadêmico da **UNINASSAU — Análise e Desenvolvimento de Sistemas (ADS)**.
 
-**O BeyondTime encontra-se atualmente em desenvolvimento e ainda não representa um produto final disponibilizado ao público.**
+> **BeyondTime ainda está sendo construído. A Landing Page é apenas o primeiro passo de um ecossistema maior.**
