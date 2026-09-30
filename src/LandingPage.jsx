@@ -57,6 +57,7 @@ const moments = [
 
 const heroImage = '/hero-casal-viajante.png';
 const autonomyImage = '/corrida-casal.png';
+const personImage = '/pessoa-madura.png';
 const steps = [
   ['1', 'Você conta o que gosta', 'Escolha hobbies e preferências de um jeito simples e sem pressa.', Smartphone],
   ['2', 'Boas afinidades aparecem', 'Veja sugestões de conexão e, se quiser, receba uma ideia para começar o primeiro olá.', Sparkles],
@@ -346,7 +347,7 @@ export default function LandingPage() {
                     <span className="rounded-full bg-accent/10 px-3 py-1 text-base font-medium text-accent">Prévia do MVP</span>
                   </div>
                   <div className="mt-5 flex items-center gap-4">
-                    <img src={autonomyImage} alt="" className="size-20 rounded-2xl object-cover shadow-md shadow-[#2A0B2C]/10 sm:size-24" loading="lazy" />
+                    <img src={personImage} alt="" className="size-20 rounded-2xl object-cover shadow-md shadow-[#2A0B2C]/10 sm:size-24" loading="lazy" />
                     <div>
                       <p className="font-heading text-xl font-bold">Afinidades em comum</p>
                       <p className="mt-1 text-base text-muted">Leitura · passeios · conversas</p>
