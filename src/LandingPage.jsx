@@ -57,7 +57,7 @@ const moments = [
 
 const heroImage = '/hero-casal-viajante.png';
 const autonomyImage = '/corrida-casal.png';
-const personImage = '/pessoa-madura.png';
+const personImage = '/pessoa-madura.jpg';
 const steps = [
   ['1', 'Você conta o que gosta', 'Escolha hobbies e preferências de um jeito simples e sem pressa.', Smartphone],
   ['2', 'Boas afinidades aparecem', 'Veja sugestões de conexão e, se quiser, receba uma ideia para começar o primeiro olá.', Sparkles],
@@ -222,7 +222,7 @@ export default function LandingPage() {
               </div>
               <p className="mt-6 flex items-center justify-center gap-2 text-base font-medium text-muted lg:justify-start">
                 <MapPin aria-hidden="true" className="size-5 text-[#8C2D52] hc:text-accent" />
-                Pensada para pessoas 50+ em Sergipe
+                Para pessoas 50+ que querem explorar novos lugares e viver experiências com segurança
               </p>
             </Reveal>
 
