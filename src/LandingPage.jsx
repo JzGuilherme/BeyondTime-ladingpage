@@ -573,7 +573,7 @@ export default function LandingPage() {
           <section aria-labelledby="footer-governance">
             <h2 id="footer-governance" className="font-heading text-2xl font-bold text-[#E6AC39] hc:text-accent">Transparência &amp; Governança</h2>
             <a
-              href="/docs/politica-governanca - BeyondTime.pdf"
+              href="/docs/politica-de-governanca - BeyondTime.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className={`mt-4 inline-flex min-h-14 items-center gap-2 rounded-xl border-2 border-[#E6AC39] px-4 py-3 text-base font-medium transition-transform hover:scale-[1.02] hc:hover:scale-100 focus-visible:outline focus-visible:outline-4 focus-visible:outline-offset-4 focus-visible:outline-[#E6AC39] ${highContrast ? 'bg-accent text-on-action' : 'bg-brand-wine text-white'}`}
